@@ -1,0 +1,32 @@
+[
+  {
+  "name": "Damon Salvatore",
+  "age": 179,
+  "image": "../image/damon.jpg"
+  },
+  {
+  "name": "Stefan Salvatore",
+  "age": 171,
+  "image": "../image/stefan.jpg"
+  },
+  {
+  "name": "Klaus Mikaelson",
+  "age": 1040,
+  "image": "../image/klaus.jpg"
+  },
+  {
+  "name": "Elijah Mikaelson",
+  "age": 1042,
+  "image": "../image/elijah.jpg"
+  },
+  {
+  "name": "Kol Mikaelson",
+  "age": 1036,
+  "image": "../image/kol.jpg"
+  },
+  {
+  "name": "Lorenzo John",
+  "age": 142,
+  "image": "../image/lorenzo.jpg"
+  }
+]

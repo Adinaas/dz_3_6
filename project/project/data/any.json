@@ -1,0 +1,10 @@
+{
+    "first name": "Adina",
+    "last name": "Mustafaeva",
+    "age": 19,
+    "have a child": false,
+    "student": true,
+    "favorite colors": ["black", "white", "beige", "blue"],
+    "favorite TV-show": "Vampire diaries",
+    "hobby": ["dance", "listening music", "watching korean dramas"]
+}
